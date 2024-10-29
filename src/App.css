@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+
+.h1a {
+  color: aqua;
+}
+
+.hett {
+  display: flex;
+  flex-direction: column;
+}
+
+.h1Page {
+  color: blue;
+  size: 5px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.buttonCliker {
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+}
